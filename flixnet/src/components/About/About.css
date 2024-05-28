@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+
+.about {
+    padding: 20vh 50px;
+}
+
+.signature {
+    font-family: 'Great Vibes';
+    font-size: 36px;
+    color: red;
+    padding-top: 10vh;
+    padding-left: 35px;
+}
